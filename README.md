@@ -7,3 +7,6 @@ To use this plugin do the following:
 - Activate the plugin
 - Navigate to "Tutoring System" in the WordPress admin menu
 - Follow the on-screen instructions.
+# Main Features
+- Manage many tutors and students automagically from the your backend in WordPress!
+- And more!
